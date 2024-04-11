@@ -1,2 +1,34 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+figure{
+	break-inside: avoid;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figcaption{
+	font-size: .75em;
+	font-style: italic;
+	margin: 1em;
+}
+
+figcaption p + p{
+	text-indent: 0;
+}
+
+figure{
+	margin: 1em 40px;
+	text-align: center;
+}
+
+/* this illustration is simply a vertical line and therefore requires special treatment to ensure it doesn't attempt to fill the width of the screen! */
+#illustration-4{
+	width: 0.5em;
+	margin-left: auto;
+	margin-right: auto;
+}
