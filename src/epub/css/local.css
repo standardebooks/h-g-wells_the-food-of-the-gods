@@ -26,7 +26,7 @@ figure{
 	text-align: center;
 }
 
-/* this illustration is simply a vertical line and therefore requires special treatment to ensure it doesn't attempt to fill the width of the screen! */
+/* this illustration is simply a single vertical line and therefore requires special treatment to ensure it doesn't attempt to fill the width of the screen! */
 #illustration-4{
 	width: 0.5em;
 	margin-left: auto;
