@@ -12,27 +12,14 @@ footer{
 
 figure{
 	break-inside: avoid;
+	margin: 1em 40px;
+	text-align: center;
 }
 
 figure img{
 	display: block;
 	margin: auto;
 	max-width: 100%;
-}
-
-figcaption{
-	font-size: .75em;
-	font-style: italic;
-	margin: 1em;
-}
-
-figcaption p + p{
-	text-indent: 0;
-}
-
-figure{
-	margin: 1em 40px;
-	text-align: center;
 }
 
 /* this illustration is simply a single vertical line and therefore requires special treatment to ensure it doesn't attempt to fill the width of the screen! */
