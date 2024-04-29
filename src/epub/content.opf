@@ -54,7 +54,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://gutenberg.org/ebooks/11696</dc:source>
 		<dc:source>https://archive.org/details/foodofgodsandhow00welluoft/page/n5/mode/2up</dc:source>
-		<meta property="se:production-notes">I have generally removed over-capitalisation of words in line with our policy, but there are some instances where that decision wasn’t a clear one and other producers may disagree.</meta>
+		<meta property="se:production-notes">1) I have generally removed over-capitalisation of words in line with our policy, but there are some instances where that decision wasn’t a clear one and other producers may disagree. 2) There were several instances where Wells starts a new paragraph in the middle of a character’s speech after only a single sentence, making reading the dialog confusing. I have combined such broken paragraphs into a single paragraph, as an [Editorial].</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Food_of_the_Gods</meta>
