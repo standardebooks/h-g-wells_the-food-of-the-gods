@@ -63,7 +63,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/11696</dc:source>
 		<dc:source>https://archive.org/details/foodofgodsandhow00welluoft</dc:source>
 		<meta property="se:production-notes">1) I have generally removed over-capitalisation of words in line with our policy, but there are some instances where that decision wasn’t a clear one and other producers may disagree. 2) There were several instances where Wells starts a new paragraph in the middle of a character’s speech after only a single sentence, or even after just a single word, in my opinion making reading the dialog very confusing. I have combined such short broken paragraphs into a single paragraph, in [Editorial] commits.</meta>
-		<meta property="se:word-count">75714</meta>
+		<meta property="se:word-count">75712</meta>
 		<meta property="se:reading-ease.flesch">71.55</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Food_of_the_Gods_and_How_It_Came_to_Earth</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-g-wells_the-food-of-the-gods</meta>
