@@ -71,18 +71,18 @@
 		<meta property="file-as" refines="#author">Wells, H. G.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Herbert George Wells</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H._G._Wells</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79063613</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79063613</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-1">Giovanni Bellini</dc:contributor>
 		<meta property="file-as" refines="#artist-1">Bellini, Giovanni</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-1">https://en.wikipedia.org/wiki/Giovanni_Bellini</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-1">http://id.loc.gov/authorities/n50007140</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist-1">http://id.loc.gov/authorities/names/n50007140</meta>
 		<meta property="role" refines="#artist-1" scheme="marc:relators">art</meta>
 		<dc:contributor id="artist-2">Titian</dc:contributor>
 		<meta property="file-as" refines="#artist-2">Titian</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-2">https://en.wikipedia.org/wiki/Titian</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-2">http://id.loc.gov/authorities/n79074519</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist-2">http://id.loc.gov/authorities/names/n79074519</meta>
 		<meta property="role" refines="#artist-2" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Paul Murray</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Murray, Paul</meta>
