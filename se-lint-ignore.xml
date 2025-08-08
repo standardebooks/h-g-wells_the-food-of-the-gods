@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-1-3.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Missing quote is dialogue running into next paragraph.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-4.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Missing quote is dialogue running into next paragraph.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
