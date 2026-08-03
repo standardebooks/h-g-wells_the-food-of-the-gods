@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/h-g-wells/the-food-of-the-gods</dc:identifier>
 		<dc:date>2024-05-02T17:52:04Z</dc:date>
@@ -54,12 +54,12 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh85002415</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:description id="description">Two scientists discover a substance which promotes rapid and extreme growth in plants, animals, and humans, leading to unexpected and alarming consequences.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Two scientists discover a substance which promotes rapid and extreme growth in plants, animals, and humans, leading to unexpected and alarming consequences.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;In the early twentieth century, two scientists develop a substance to promote continuous growth in plants and animals. In testing it on poultry at an experimental farm, the “Food of the Gods” is carelessly scattered about, resulting in giant insects, giant rats, and so on. When anxious parents give it to sickly children, it creates a race of giant humans.&lt;/p&gt;
 			&lt;p&gt;Though there are many touches of humor in this somewhat satirical look at society and how one invention or discovery could overturn it, the book ends on a much more serious and thoughtful note, and includes a warning against unchecked technology in the hands of capitalism. It also points out how easily a rabble-rousing politician can incite hatred towards those who are different.&lt;/p&gt;
 			&lt;p&gt;The book was published under its full title, &lt;i&gt;The Food of the Gods and How It Came to Earth&lt;/i&gt;, in 1904, and has since been used as the basis for a number of movies and comic books.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11696</dc:source>
 		<dc:source>https://archive.org/details/foodofgodsandhow00welluoft</dc:source>
