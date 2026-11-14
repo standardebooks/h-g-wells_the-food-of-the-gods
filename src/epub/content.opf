@@ -83,6 +83,7 @@
 		<meta property="role" refines="#artist-1" scheme="marc:relators">art</meta>
 		<dc:contributor id="artist-2">Titian</dc:contributor>
 		<meta property="file-as" refines="#artist-2">Titian</meta>
+		<meta property="schema:alternateName" refines="#artist-2">Tiziano Vecellio</meta>
 		<link href="https://en.wikipedia.org/wiki/Titian" refines="#artist-2" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79074519.html" refines="#artist-2" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-2" scheme="marc:relators">art</meta>
